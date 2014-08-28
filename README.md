@@ -42,7 +42,10 @@ For some additional context, see our [exchange](https://twitter.com/joyrexus/sta
 
 * [Dat](http://dat-data.com/)
   * [What is dat?](https://github.com/maxogden/dat/blob/master/docs/what-is-dat.md)
-  * [Getting Started](https://github.com/maxogden/dat/blob/master/docs/getting-started.md)
-  * [Importing Data](https://github.com/maxogden/dat/blob/master/docs/importing.md)
+  * [Getting started](https://github.com/maxogden/dat/blob/master/docs/getting-started.md)
+  * [Importing data](https://github.com/maxogden/dat/blob/master/docs/importing.md)
   * [REST API](https://github.com/maxogden/dat/blob/master/docs/rest-api.md)
-    * [CVS-streaming](http://t.co/kFLTs4W0Lp)
+    * [CSV-streaming](http://t.co/kFLTs4W0Lp)
+    * [Example](http://usgs-earthquakes.herokuapp.com/) - example of REST API
+      serving up 
+      [USGS earthquake data](https://github.com/maxogden/dat-usgs-earthquakes).
