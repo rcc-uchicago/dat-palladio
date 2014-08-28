@@ -35,8 +35,10 @@ For some additional context, see our [exchange](https://twitter.com/joyrexus/sta
 ## Resources
 
 * [Palladio](http://palladio.designhumanities.org)
-  * [design/dev overview](http://esjewett.com/blog/palladio)
-  * [sample dataset](http://palladio.designhumanities.org/sample/#/upload)
+  * [design/dev notes](http://esjewett.com/blog/palladio) - high-level
+    overview of the design and architecture of Palladio by the lead dev
+  * [sample dataset](http://palladio.designhumanities.org/sample/#/upload) -
+    preloaded samples
   * [samples](samples/csv) - CSV text files of sample dataset
   * [FAQ](http://hdlab.stanford.edu/lab-notebook/palladio/2014/08/18/palladio-faqs-0-6-0/)
 
