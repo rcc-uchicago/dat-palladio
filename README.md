@@ -35,12 +35,18 @@ For some additional context, see our [exchange](https://twitter.com/joyrexus/sta
 ## Resources
 
 * [Palladio](http://palladio.designhumanities.org)
+  * [overview](http://hestia.open.ac.uk/palladio-humanities-thinking-about-data-visualization/) - high-level overview from a researcher's perspective
+  * [getting started](http://miriamposner.com/blog/getting-started-with-palladio/) - intro guide showing how to import and work with a dataset
   * [design/dev notes](http://esjewett.com/blog/palladio) - high-level
     overview of the design and architecture of Palladio by the lead dev
+  * [video demos](https://vimeo.com/athanasius/videos) - demonstrating various
+    features
+  * [source repo](https://github.com/humanitiesplusdesign/palladio) - now
+    available on Github
   * [sample dataset](http://palladio.designhumanities.org/sample/#/upload) -
     preloaded samples
   * [samples](samples/csv) - CSV text files of sample dataset
-  * [FAQ](http://hdlab.stanford.edu/lab-notebook/palladio/2014/08/18/palladio-faqs-0-6-0/)
+  * [FAQ](http://hdlab.stanford.edu/lab-notebook/palladio/2014/11/18/palladio-faqs-0-8-0/)
 
 * [Dat](http://dat-data.com/)
   * [What is dat?](https://github.com/maxogden/dat/blob/master/docs/what-is-dat.md)
