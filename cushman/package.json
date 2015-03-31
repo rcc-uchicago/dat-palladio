@@ -1,7 +1,7 @@
 {
   "name": "dat-palladio",
   "version": "1.0.0",
-  "description": "Personal repository for working on RCC dat-palladio project ##Objective To create a dat backend for Palladio",
+  "description": "Example with Cushman data for RCC dat-palladio project",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
