@@ -1,0 +1,20 @@
+{
+  "name": "dat-palladio",
+  "version": "1.0.0",
+  "description": "Personal repository for working on RCC dat-palladio project ##Objective To create a dat backend for Palladio",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Tejong Lim",
+  "license": "ISC",
+  "dependencies": {
+    "dat": "^6.9.6",
+    "minimist": "^1.1.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "data"
+  ]
+}
