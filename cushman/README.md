@@ -8,7 +8,9 @@ The data may need to be reformatted for easier use and compatibility with featur
 
 ##Install Dat
 
-First, install Dat as described in the [Dat GitHub respository](https://github.com/maxogden/dat). This requires the installation of node version 0.10 beforehand.
+1) Install Node from the [Node website](https://nodejs.org/). Make sure it is at least version 0.10 by running the command ```node -v```.
+
+2) After installing node, running the command ```npm install``` will install not only Dat, but also Minimist, which is needed for the bash script to work in the next step. This is due to the package.json file, which specifies these two modules as dependencies.
 
 ##Import data
 
